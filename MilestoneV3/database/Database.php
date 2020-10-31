@@ -6,10 +6,10 @@ error_reporting(E_ALL);
 
 class Database
 {
-    private $dbservername = "localhost";
-    private $dbusername = "root";
-    private $dbpassword = "root";
-    private $dbname = "storemodel";
+    private $dbservername = "l7cup2om0gngra77.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+    private $dbusername = "edc3g7lgom96cego";
+    private $dbpassword = "ptceal54lujjqkb9";
+    private $dbname = "ojn0mermyptgs8x5";
     
     function getConnection()
     {
